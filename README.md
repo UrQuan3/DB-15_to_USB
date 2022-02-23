@@ -18,7 +18,7 @@ Setup instructions:
 - Install the arduino software and the Teensy libraries:
 https://www.arduino.cc/
 https://www.pjrc.com/teensy/td_download.html
-- Open this project
+- Open this project in the arduino software
 - Under "Tools->Board", set your board type.
 - Under "Tools->USB Type", pick something that includes "Joystick"
 
